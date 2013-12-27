@@ -1,4 +1,4 @@
-Soartex_Renovated
+Invictus Texturepack
 =================
 
-Soartex, by Shoeboxam, Goldbattle and Soar49
+Created by Shoeboxam, Goldbattle and Soar49
