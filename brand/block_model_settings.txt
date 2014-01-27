@@ -1,0 +1,27 @@
+Map Box
+Transparent Background
+Antialiasing (3.5, .3)
+Point Light (1.0,-.5,2.0)
+
+Intensity
+-Ambient .6
+-Diffuse .8
+Reflectivity
+-Diffuse .3
+-Specular 3.4
+-Highlight 38.8
+
+Position (.5, .46667, .25)
+Rotation (24.0, 45.0, 0)
+
+
+
+
+Drop Shadow
+========
+Offsetx: 1
+offsety: 7
+blurradius: 15
+color: black
+opacity:75
+allow resize: off
